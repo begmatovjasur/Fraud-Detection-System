@@ -8,7 +8,7 @@ Data Engineering (SQL & Pandas): Ma'lumotlar PostgreSQL bazasidan xavfsiz tarzda
 
 Exploratory Data Analysis (EDA): Tranzaksiya summasi (Amount) va vaqti (Time) tahlil qilindi. Firibgarlar odatda insonlarning tabiiy uyqu ritmiga bo'ysunmasligi va o'rtacha xariddan kattaroq, lekin bank cheklovlariga tushmaydigan summalarni yechishga harakat qilishi vizual isbotlandi.
 
-Model Selection & Tuning: * Baseline: Dastlabki mantiqni tekshirish uchun Logistic Regression ishlatildi.
+Model Selection & Tuning: Baseline: Dastlabki mantiqni tekshirish uchun Logistic Regression ishlatildi.
 
 Optimization: Random Forest algoritmi class_weight='balanced' va Probability Thresholding (0.3) orqali biznes talablariga moslashtirildi.
 
